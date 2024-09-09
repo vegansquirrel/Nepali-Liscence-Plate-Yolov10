@@ -1,0 +1,6 @@
+names:
+- license_plate
+nc: 1
+test: C:/Users/risha/Documents/GitHub/Nepali Liscence Plate Yolov10/New_data/train/images
+train: C:/Users/risha/Documents/GitHub/Nepali Liscence Plate Yolov10/New_data/test/images
+val: C:/Users/risha/Documents/GitHub/Nepali Liscence Plate Yolov10/New_data/validation/images
